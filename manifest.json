@@ -1,0 +1,16 @@
+{
+  "name": "Misudoku",
+  "short_name": "Misudoku",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#efe4de",
+  "theme_color": "#e9d8d1",
+  "description": "为 Mi 制作的专注 Sudoku",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+.fx-test-page {
+  width: min(1100px, 96vw);
+  margin: 0 auto;
+  padding: 24px 0 36px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+}
+
+.fx-test-header h1 {
+  margin: 0;
+  font-size: 1.6rem;
+}
+
+.fx-test-header p {
+  margin: 6px 0 0;
+  color: var(--muted);
+}
+
+.fx-preview {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 14px;
+  display: grid;
+  gap: 12px;
+}
+
+.fx-preview-actions,
+.fx-status-row,
+.fx-presets {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.fx-status-row {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.fx-board-card {
+  width: min(88vw, 560px);
+  margin: 0 auto;
+}
+
+.fx-board-card .cell {
+  cursor: default;
+}
+
+.fx-controls {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 14px;
+  display: grid;
+  gap: 12px;
+}
+
+.fx-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(180px, 1fr));
+  gap: 10px;
+}
+
+.fx-field {
+  display: grid;
+  gap: 6px;
+  font-family: "Avenir Next", "Gill Sans", "Trebuchet MS", sans-serif;
+  font-size: 0.82rem;
+}
+
+.fx-field span {
+  color: var(--muted);
+  letter-spacing: 0.04em;
+}
+
+.fx-field input,
+.fx-field select {
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--panel-soft);
+  color: var(--text);
+  padding: 8px 10px;
+  font-size: 0.95rem;
+}
+
+@media (max-width: 900px) {
+  .fx-grid {
+    grid-template-columns: repeat(2, minmax(160px, 1fr));
+  }
+}
+
+@media (max-width: 560px) {
+  .fx-grid {
+    grid-template-columns: 1fr;
+  }
+}

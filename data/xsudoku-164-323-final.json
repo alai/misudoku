@@ -1,0 +1,3514 @@
+{
+  "version": 1,
+  "exportedAt": "2026-02-10",
+  "puzzles": [
+    {
+      "id": "xsudoku-p147",
+      "givens": "000000300001030000000000001300005000005000670000600000500070000060080100007000003",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 4
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p148",
+      "givens": "010000060003000100008070000000010020000005000050030000060000300107000600020008070",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p149",
+      "givens": "000000006000010007000002000000005070010000050053600000000000000500730000200000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p150",
+      "givens": "200000500005000030010007000000500200000020000006000008800300060070000000003000001",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 3
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p151",
+      "givens": "001000050000200006803000000000007000007050800000100030000030705600008000020000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 8,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 4,
+          "Hidden Pair": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p152",
+      "givens": "000070000000000500000006100102000030600000000030000007000000000007000620000035000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p153",
+      "givens": "000000500600584003000000000080020010000030000020070060000000000000102000005000600",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Locked Candidates": 4
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p154",
+      "givens": "000700000000300000000800010000000167000000000023000000100003000300000200000004500",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 3
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p155",
+      "givens": "000030000100000080500000600000100500002000300008006000006000000030007006080020000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 12,
+        "techniqueCounts": {
+          "Hidden Single": 4,
+          "Locked Candidates": 5,
+          "Hidden Pair": 3
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p156",
+      "givens": "000003600000400000123000070000000050007302800000000000000000501060004000002810000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p157",
+      "givens": "000710000030000070200050000001000700000607003003000000100060002060000050000305000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 10,
+        "techniqueCounts": {
+          "Hidden Single": 8,
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p158",
+      "givens": "000700000100006000000050003008000005300000006700000000000000080000300002007000100",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p159",
+      "givens": "000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p160",
+      "givens": "000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p161",
+      "givens": "000003006050700000000000100700050000000006000100070005003000200500007000000600001",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p162",
+      "givens": "100000000000000070000520000000706300007000500005103700000835000030000010000000006",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 12,
+        "techniqueCounts": {
+          "Hidden Single": 6,
+          "Locked Candidates": 6
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p163",
+      "givens": "100000000030007000000020600000100307050000020800006000000030200000500000000000001",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p164",
+      "givens": "032100000040000000050300010060700000070052000080001050007003020000000030000000860",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Locked Candidates": 4
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p165",
+      "givens": "000041000000700800003000050000600002700050003100000060080000700000005000000230000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 3,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p166",
+      "givens": "000000000001234500040607010078000360090000070023000850050906080007815900000000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 57,
+        "techniqueCounts": {
+          "Naked Single": 48,
+          "Hidden Single": 5,
+          "Locked Candidates": 3,
+          "Naked Pair": 1
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p167",
+      "givens": "000010000000500000006700300081000000500000002000003760007002500040008010300060000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 4.4,
+        "hardestTechnique": "XY-Wing",
+        "steps": 24,
+        "techniqueCounts": {
+          "Locked Candidates": 6,
+          "Hidden Pair": 3,
+          "Hidden Single": 8,
+          "Naked Single": 6,
+          "XY-Wing": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p168",
+      "givens": "000305000005000000000070030800000005060000080300000007000020000002030000000001000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p169",
+      "givens": "010000000007000000000500070000000300100000006068000000020001700300000000000060050",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p170",
+      "givens": "000003006000006070500000800000708060000000000300501000003000002000800000200100500",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 11,
+        "techniqueCounts": {
+          "Hidden Single": 5,
+          "Locked Candidates": 4,
+          "Naked Single": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p171",
+      "givens": "000000000005230670030000000020013000050702030060485010070000080083627050000000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 3,
+        "techniqueCounts": {
+          "Naked Single": 2,
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p172",
+      "givens": "103000600000007000000050000000800006007000200500706001000070000000201000002000803",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p173",
+      "givens": "100000507000030020800006000003000000000050010000000700000000003020010060607000008",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 7,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 4,
+          "Hidden Pair": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p174",
+      "givens": "015300000000700100800001000000000062060000030350000000007200000001000000000006000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p175",
+      "givens": "300000000070000000000050000000000030107000502000000060000080000010000070200010003",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p176",
+      "givens": "001000000030000000000080200020100000005000000000700030000070001070006040100000500",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p177",
+      "givens": "013800000000050000600032000000000020070000010065000003000100006000000000000005370",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 4
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p178",
+      "givens": "000700000500060000001005000000200100070030000002000000000000500003000006000001040",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p179",
+      "givens": "000000000003600007000007000500003000000050000000000003000200000800006100040000050",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p180",
+      "givens": "006100000001700000000000003000000007070302010350070000010000000000068700000000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 6,
+        "techniqueCounts": {
+          "Hidden Single": 5,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p181",
+      "givens": "000700000000000000013000080037000005060070000000000230020003500000200000000001000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 3,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p182",
+      "givens": "003000000400100070060020800000000050100307000080000000006050030070001002000000600",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p183",
+      "givens": "003000050000500000000030000070000000006203100100000080000080007700002000080700500",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Hidden Pair": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p184",
+      "givens": "050000000000100000000003700080006000100000005003500060007000800000002003000060050",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 3
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p185",
+      "givens": "000000060000700510000000800080006000006000000000100030000060000013002000070000400",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p186",
+      "givens": "500000000060001030000000700800100000030000070000002005007000000000300060000050002",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p187",
+      "givens": "000300200020000000060000030000000000005070800000030000030000000000000010002500400",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p188",
+      "givens": "000100006070050000006000500000308007030000010000701003000000000010030020700402005",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p189",
+      "givens": "100000000000060050000500000076000300000000000005000710000008000010000060500000007",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p190",
+      "givens": "000034000000000007050000600030000800000000000008000050005000080000000000000670003",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p191",
+      "givens": "050000030000001000007000100080010020600500007000030050005000000000000000000050000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p192",
+      "givens": "700000000000000000006030050000100007000000600100007300080060000001000000300500006",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p193",
+      "givens": "000700000014000620070000000500030000000008000000010000000000030056000800000000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p194",
+      "givens": "000700006030600010000200000000000201060000080005000000000006000000081060500007004",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 8,
+        "techniqueCounts": {
+          "Hidden Single": 4,
+          "Locked Candidates": 3,
+          "Hidden Pair": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p195",
+      "givens": "500000006000036000003000100070502000030000010080300000000000500000208000700000001",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p196",
+      "givens": "100000006020000070003000500000007010500030008060200000007000200080000030000060004",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p197",
+      "givens": "300000000002000008050062000008100000200050003000000700000600050700003600000000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p198",
+      "givens": "030106000000000000070000000806000000050000030000000208000007020000080000000305080",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p199",
+      "givens": "000301000508060000070000000007000001050000000200000306000000020000050107000400060",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p200",
+      "givens": "000010000500600000002000000800507000000020000000803005005000000700302009000000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p201",
+      "givens": "000000007010000000080000060000700000008000500000003000000060050064000370500000001",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p202",
+      "givens": "700000000060000000000000560003000000000301000000000100010007000005000000000100007",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p203",
+      "givens": "700000000630050000000007800000000100070503060000010000005200000000030001000000050",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p204",
+      "givens": "063000000000003000000000570300000000000070000070000005056000000000300000400006100",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 3,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p205",
+      "givens": "700000000042000000060000000001603007000000000000700300000000010000000520300500000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 2,
+        "techniqueCounts": {
+          "Locked Candidates": 1,
+          "Hidden Pair": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p206",
+      "givens": "060007040000000007000500000608000305000000000701000000000805000000000001020304060",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p207",
+      "givens": "000060000020000030000000500300000005000000000600010000006000000050000070000076000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p208",
+      "givens": "300006008000000700000000350000007006000000000100300000005030000000050000600000005",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p209",
+      "givens": "003000000000000060000000000070000300000108007000050010000000000050600000000030100",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 2,
+        "techniqueCounts": {
+          "Locked Candidates": 1,
+          "Hidden Pair": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p210",
+      "givens": "000003007000070060006000000000000701000000030001000000000800105000000070500400600",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p211",
+      "givens": "000000000005000300000000000250000000600000008000000060800001200003000700000004000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p212",
+      "givens": "000000500000600030053000006600070000000000000000020004800000040070000000002057000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p213",
+      "givens": "000000020003000700000300008010000000002000600030070010100008003006000000050000070",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p214",
+      "givens": "100000000000000300076000100000300500000000001000500002000003260001000000600870000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p215",
+      "givens": "000678000000000000300000600200000000100050006000300007007000001000000000000163700",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 3
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p216",
+      "givens": "000000570000000003000080001000003000000000600301700000700860000000000000026400000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p217",
+      "givens": "030000000000000208000060000200000005005000100000700000000070000700008004040000630",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p218",
+      "givens": "000000000000060780000307050006001000030000010008200500020805000051730060000000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 4
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p219",
+      "givens": "000000000005000000000030002300200000001000500000806000200070005000000000000100060",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p220",
+      "givens": "070008000003000700000000010008000003000801000100000500000002080005000002000300000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 3,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p221",
+      "givens": "054000001600000020200700300000001000000020000000300670001002004020000005300000800",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 17,
+        "techniqueCounts": {
+          "Hidden Single": 8,
+          "Naked Single": 5,
+          "Locked Candidates": 4
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p222",
+      "givens": "007600003300000000800000500600002000002000800040700001003010007000800000000006200",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p223",
+      "givens": "100008700000060030000500020005200060000000000000007000070000100060030000002600004",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 9,
+        "techniqueCounts": {
+          "Hidden Single": 6,
+          "Locked Candidates": 3
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p224",
+      "givens": "000000680000003004000068002000600710004000500053002000400710000100400000039000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 1,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 59,
+        "techniqueCounts": {
+          "Hidden Single": 19,
+          "Naked Single": 40
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p225",
+      "givens": "010000000000000000027003000070001080000000000052800070000530760000000530000000020",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p226",
+      "givens": "000021000000300000004000793050006001600070009700800020893000500000003000000610000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 1,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 58,
+        "techniqueCounts": {
+          "Naked Single": 54,
+          "Hidden Single": 4
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p227",
+      "givens": "003056000000000700010000000006100000000000000000307000000000030007000000000813000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p228",
+      "givens": "000000000000000000000107300030050000000000006000080010006700000700000005000030000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p229",
+      "givens": "000305000000000006000000000700000201000000000102000300000008000500000007070103000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p230",
+      "givens": "004300020060007005090001008000000170000603000086000000700800060200900050010005400",
+      "solution": "",
+      "source": "book",
+      "difficulty": 1,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 57,
+        "techniqueCounts": {
+          "Hidden Single": 12,
+          "Naked Single": 45
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p231",
+      "givens": "000500000000700160070100800000000012000000000507000000003005070060001020000006000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p232",
+      "givens": "000060010000000003000007000007600500500000001000001200000205000300000006010080070",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Hidden Pair": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p233",
+      "givens": "007603000000070002001000007060500008000000000000008000000000200500000000080306500",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p234",
+      "givens": "000000600000500000703010000000000070006000100000002000000060300050004000802000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 3,
+        "techniqueCounts": {
+          "Locked Candidates": 2,
+          "Hidden Pair": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p235",
+      "givens": "000000007030000000000000500007000200000506000001000600005000000000800030600020000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p236",
+      "givens": "000507000012000340080000010900060001000308000700020006030000090056000780000804000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 1,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 57,
+        "techniqueCounts": {
+          "Naked Single": 46,
+          "Hidden Single": 11
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p237",
+      "givens": "000603010070000003000000000600000000010000020000000000000000000700050032030701050",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p238",
+      "givens": "000000000005030000000600002002000000000000030700000400300008050000000600000700000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p239",
+      "givens": "000008030001000570002500000003600000000000000000000700000005800075206000040300000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p240",
+      "givens": "000000000000070020003106800007000600610000080000000100002003500000050070000060000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p241",
+      "givens": "000000586010000000030000000007001002000000000500800000000000010000530070060000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 6,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 4
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p242",
+      "givens": "000000000600580000000000570010000000000000002003000010007006000000020000000000031",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p243",
+      "givens": "007300000000000200010002000001000005000103007000000300500000030000000000000001080",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p244",
+      "givens": "000300040000000000359001000000070000100000200006000030060025300000040070000800000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p245",
+      "givens": "100004900003900050020000006050000003000050000200000080400000010080006200005300009",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 65,
+        "techniqueCounts": {
+          "Hidden Single": 15,
+          "Locked Candidates": 4,
+          "Naked Pair": 1,
+          "Naked Single": 45
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p246",
+      "givens": "500900000600000002000008100000060080001805400070020000008400000300000006000001007",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 65,
+        "techniqueCounts": {
+          "Hidden Single": 25,
+          "Locked Candidates": 2,
+          "Hidden Pair": 2,
+          "Naked Single": 36
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p247",
+      "givens": "000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p248",
+      "givens": "600000005030000080000738000005104800007000600001203400000456000070000020800000006",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 60,
+        "techniqueCounts": {
+          "Naked Single": 47,
+          "Hidden Single": 10,
+          "Locked Candidates": 2,
+          "Naked Pair": 1
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p249",
+      "givens": "080000000000000000003007005010009800000000000000000000000000000000000000000000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p250",
+      "givens": "003000056800900000000002000005060000020301070000040800000700000000005009410000300",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 62,
+        "techniqueCounts": {
+          "Hidden Single": 16,
+          "Naked Single": 45,
+          "Locked Candidates": 1
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p251",
+      "givens": "000781000006000000009000370300107009900060004800903002013000500000000100000412000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 63,
+        "techniqueCounts": {
+          "Hidden Single": 18,
+          "Naked Single": 38,
+          "Locked Candidates": 7
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p252",
+      "givens": "008070002020500009007003600300009000090000040000600005002100800400006030600090100",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 59,
+        "techniqueCounts": {
+          "Naked Single": 41,
+          "Hidden Single": 16,
+          "Locked Candidates": 2
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p253",
+      "givens": "009300001060078000400000200000400009003050700100006000006000008000910030200007400",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 62,
+        "techniqueCounts": {
+          "Hidden Single": 10,
+          "Locked Candidates": 4,
+          "Naked Single": 48
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p254",
+      "givens": "200010005010207080003000600040060050500709004060080030007000200020801090300090006",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 55,
+        "techniqueCounts": {
+          "Hidden Single": 12,
+          "Naked Single": 41,
+          "Locked Candidates": 2
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p255",
+      "givens": "000547000006000900040000030100020007300604001500090008030000040002000500000168000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 59,
+        "techniqueCounts": {
+          "Naked Single": 40,
+          "Hidden Single": 17,
+          "Locked Candidates": 2
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p256",
+      "givens": "000056000043000002800900007700100050006000800010008004900007001300000640000280000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 58,
+        "techniqueCounts": {
+          "Naked Single": 49,
+          "Hidden Single": 8,
+          "Locked Candidates": 1
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p257",
+      "givens": "005000600060000030100040008000907000007020500000605000400080003010000050003000200",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 66,
+        "techniqueCounts": {
+          "Hidden Single": 18,
+          "Locked Candidates": 5,
+          "Naked Single": 42,
+          "Naked Pair": 1
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p258",
+      "givens": "000000000100000487006540000600000023000236000290000006000098600375000002000000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 66,
+        "techniqueCounts": {
+          "Naked Single": 43,
+          "Hidden Single": 15,
+          "Locked Candidates": 7,
+          "Naked Pair": 1
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p259",
+      "givens": "100000340090052000006008000400000006002000800700000002000700900000460080058000001",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 63,
+        "techniqueCounts": {
+          "Hidden Single": 20,
+          "Naked Single": 39,
+          "Locked Candidates": 3,
+          "Naked Pair": 1
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p260",
+      "givens": "046000005800007040200008300100600290000000000074002003001200007090500008300000610",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 65,
+        "techniqueCounts": {
+          "Naked Single": 48,
+          "Hidden Single": 7,
+          "Locked Candidates": 9,
+          "Naked Pair": 1
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p261",
+      "givens": "005200097020000300080000600003900028000000000270006500009000050002000080340007200",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 59,
+        "techniqueCounts": {
+          "Hidden Single": 27,
+          "Naked Single": 30,
+          "Naked Pair": 2
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p262",
+      "givens": "400030001050006020006000300030704000700000005000603080007000400080200050900080006",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 63,
+        "techniqueCounts": {
+          "Hidden Single": 19,
+          "Locked Candidates": 5,
+          "Naked Pair": 1,
+          "Naked Single": 38
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p263",
+      "givens": "680000034040070020003000600000809000005000400000207000001000700020010060960000013",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 61,
+        "techniqueCounts": {
+          "Naked Single": 46,
+          "Hidden Single": 11,
+          "Locked Candidates": 4
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p264",
+      "givens": "000437000003000400080000090200060001100904002500020006090000060007000800000671000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 67,
+        "techniqueCounts": {
+          "Hidden Single": 20,
+          "Locked Candidates": 10,
+          "Naked Single": 37
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p265",
+      "givens": "000092500000000090004870006060004009800000002700900080200059600030000000009210000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 61,
+        "techniqueCounts": {
+          "Hidden Single": 21,
+          "Naked Single": 36,
+          "Locked Candidates": 3,
+          "Naked Pair": 1
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p266",
+      "givens": "000720300006000020050400008030001009040000050900300060700002040060000100005089000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 60,
+        "techniqueCounts": {
+          "Naked Single": 43,
+          "Hidden Single": 14,
+          "Locked Candidates": 3
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p267",
+      "givens": "000019000006000800047002006000500003090040070200008000800400720003000500000160000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 63,
+        "techniqueCounts": {
+          "Naked Single": 47,
+          "Hidden Single": 11,
+          "Locked Candidates": 5
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p268",
+      "givens": "000000000008020700060105030007010200030904050009060300090203080006090100000000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 59,
+        "techniqueCounts": {
+          "Naked Single": 40,
+          "Hidden Single": 17,
+          "Locked Candidates": 2
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p269",
+      "givens": "000305000009802300050000090820000031000000000460000087080000060003201500000704000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 68,
+        "techniqueCounts": {
+          "Hidden Single": 11,
+          "Locked Candidates": 8,
+          "Naked Pair": 1,
+          "Hidden Pair": 2,
+          "Naked Single": 46
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p270",
+      "givens": "506001004020008000000400390007900000800000005000007200091004000000300060300200708",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 58,
+        "techniqueCounts": {
+          "Naked Single": 47,
+          "Hidden Single": 10,
+          "Locked Candidates": 1
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p271",
+      "givens": "200000007000203000005070600020104030006000200090507010009040500000701000800000009",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 66,
+        "techniqueCounts": {
+          "Hidden Single": 13,
+          "Locked Candidates": 9,
+          "Naked Single": 44
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p272",
+      "givens": "003456000020000700010000800030009000007040200000500090004000080006000070000168000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 42,
+        "techniqueCounts": {
+          "Hidden Single": 15,
+          "Locked Candidates": 12,
+          "Naked Single": 15
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p273",
+      "givens": "008000060000300107010050200600890000500000004000041002005010090803007000020000400",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 60,
+        "techniqueCounts": {
+          "Hidden Single": 8,
+          "Naked Single": 49,
+          "Locked Candidates": 3
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p274",
+      "givens": "003200000006500000190003500480005300000000000009800076007400031000006800000001700",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 63,
+        "techniqueCounts": {
+          "Hidden Single": 9,
+          "Locked Candidates": 6,
+          "Naked Single": 48
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p275",
+      "givens": "038000002450007000700006500000100430000000000012008000007900001000300059500000780",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 65,
+        "techniqueCounts": {
+          "Hidden Single": 17,
+          "Naked Single": 40,
+          "Locked Candidates": 7,
+          "Naked Pair": 1
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p276",
+      "givens": "950000000160000000000740560000270480000000000072034000023086000000000056000000093",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 61,
+        "techniqueCounts": {
+          "Naked Single": 49,
+          "Hidden Single": 8,
+          "Locked Candidates": 4
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p277",
+      "givens": "087500000000200040100000009020009000003000500000800010500000002040001000000003760",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 62,
+        "techniqueCounts": {
+          "Hidden Single": 15,
+          "Naked Single": 46,
+          "Locked Candidates": 1
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p278",
+      "givens": "003020000000109000500030600040005090801000402060700050006090007000406000000080300",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 60,
+        "techniqueCounts": {
+          "Naked Single": 43,
+          "Hidden Single": 14,
+          "Locked Candidates": 2,
+          "Hidden Pair": 1
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p279",
+      "givens": "007000300060809000100030005010700060005000700020004090200060001000908050001000400",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 62,
+        "techniqueCounts": {
+          "Hidden Single": 12,
+          "Locked Candidates": 3,
+          "Hidden Pair": 1,
+          "Naked Pair": 1,
+          "Naked Single": 45
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p280",
+      "givens": "003200000600001007070040090001900030200000008080006500050030010700800006000002700",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 60,
+        "techniqueCounts": {
+          "Locked Candidates": 2,
+          "Hidden Single": 18,
+          "Hidden Pair": 1,
+          "Naked Single": 39
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p281",
+      "givens": "090000210140003009000040008000500070006000500070004000800060000900300081012000060",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 64,
+        "techniqueCounts": {
+          "Naked Single": 47,
+          "Hidden Single": 10,
+          "Locked Candidates": 7
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p282",
+      "givens": "000000000084000120000321000007050300068000410002030600000946000046000980000000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 64,
+        "techniqueCounts": {
+          "Naked Single": 39,
+          "Hidden Single": 18,
+          "Locked Candidates": 3,
+          "Naked Pair": 4
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p283",
+      "givens": "200000007000452000003090400060000050091000740030000060009060800000129000700000004",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 65,
+        "techniqueCounts": {
+          "Hidden Single": 7,
+          "Locked Candidates": 8,
+          "Naked Single": 50
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p284",
+      "givens": "500090002020080005070005000008003000007000900000100300000500060200070050300060004",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 64,
+        "techniqueCounts": {
+          "Hidden Single": 19,
+          "Naked Single": 40,
+          "Locked Candidates": 3,
+          "Naked Pair": 2
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p285",
+      "givens": "090000001002000080005000000040000000000000000000000007000000000000000000030000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p286",
+      "givens": "400000010050000200006083000000000000000000000000000000000000000000000000000000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p287",
+      "givens": "000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p288",
+      "givens": "000000000300020000950430000086200400002000900007006280000089073000060001000000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 19,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": false,
+        "contradiction": true,
+        "error": "candidate wipeout at r8c7"
+      }
+    },
+    {
+      "id": "xsudoku-p289",
+      "givens": "000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p290",
+      "givens": "000248000700000006020000030008060100009802400002070300060000040900000001000915000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 70,
+        "techniqueCounts": {
+          "Hidden Single": 14,
+          "Locked Candidates": 11,
+          "Naked Pair": 1,
+          "Hidden Pair": 1,
+          "Naked Single": 43
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p291",
+      "givens": "000000400000000000000000000000000000000000000000000000000000000000000000000000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p292",
+      "givens": "000106030000050209000007010800000604050000090104000007020700000301090000070504000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 67,
+        "techniqueCounts": {
+          "Hidden Single": 16,
+          "Locked Candidates": 8,
+          "Hidden Pair": 1,
+          "Naked Pair": 1,
+          "Naked Single": 41
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p293",
+      "givens": "002400030080000700900061000100009080300000005060800002000350008007000010090002600",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 63,
+        "techniqueCounts": {
+          "Naked Single": 42,
+          "Hidden Single": 15,
+          "Locked Candidates": 6
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p294",
+      "givens": "070020050800000006600804007709000208100708009000203000200000005000601000005000400",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 61,
+        "techniqueCounts": {
+          "Hidden Single": 14,
+          "Naked Single": 42,
+          "Locked Candidates": 4,
+          "Naked Pair": 1
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p295",
+      "givens": "000000940000006005000002008043009002200708006600100530500600000700200000089000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 68,
+        "techniqueCounts": {
+          "Naked Single": 50,
+          "Hidden Single": 7,
+          "Locked Candidates": 9,
+          "Naked Pair": 2
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p296",
+      "givens": "080000060900104002001000400010508040000040000020601030002000300600203007050000090",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 58,
+        "techniqueCounts": {
+          "Hidden Single": 16,
+          "Locked Candidates": 2,
+          "Naked Single": 40
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p297",
+      "givens": "000016700094000000000009200026800000000000000000002970005400000000000340008590000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 70,
+        "techniqueCounts": {
+          "Hidden Single": 13,
+          "Naked Single": 48,
+          "Locked Candidates": 8,
+          "Naked Pair": 1
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p298",
+      "givens": "700040005120006070003000400070905000900000007000307050001000800030400090200010000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 26,
+        "techniqueCounts": {
+          "Hidden Single": 16,
+          "Locked Candidates": 8,
+          "Naked Single": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p299",
+      "givens": "000000000070905080050307010080200500002000900009003020040608030060104070000000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 62,
+        "techniqueCounts": {
+          "Naked Single": 51,
+          "Hidden Single": 6,
+          "Locked Candidates": 4,
+          "Naked Pair": 1
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p300",
+      "givens": "300000006020010040000705000007030600050107080009040200000901000010060030800000009",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 67,
+        "techniqueCounts": {
+          "Hidden Single": 18,
+          "Locked Candidates": 9,
+          "Naked Single": 39,
+          "Hidden Pair": 1
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p301",
+      "givens": "800010000400700200009006030030600400500000001002009060080300900001005003000070008",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 61,
+        "techniqueCounts": {
+          "Hidden Single": 9,
+          "Locked Candidates": 3,
+          "Naked Single": 48,
+          "Naked Pair": 1
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p302",
+      "givens": "005000600100603000300040009070109020003000500090507080800090002000206000001000400",
+      "solution": "",
+      "source": "book",
+      "difficulty": 4,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 36,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": false,
+        "contradiction": true,
+        "error": "candidate wipeout at r3c4"
+      }
+    },
+    {
+      "id": "xsudoku-p303",
+      "givens": "000082000009600500050000070700204030200000007010306009030000020008003100000790000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 66,
+        "techniqueCounts": {
+          "Hidden Single": 21,
+          "Naked Single": 36,
+          "Locked Candidates": 7,
+          "Naked Pair": 2
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p304",
+      "givens": "000000047006500002010080000030608000002000100000409030000060080400002500720000000",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 68,
+        "techniqueCounts": {
+          "Hidden Single": 11,
+          "Locked Candidates": 6,
+          "Naked Pair": 2,
+          "Hidden Pair": 1,
+          "Naked Single": 48
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p305",
+      "givens": "400003001050800020006000300100070050000401000080090006001000700020009080300600009",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 61,
+        "techniqueCounts": {
+          "Hidden Single": 15,
+          "Naked Single": 42,
+          "Naked Pair": 2,
+          "Locked Candidates": 1,
+          "Hidden Pair": 1
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    },
+    {
+      "id": "xsudoku-p306",
+      "givens": "060005200300000090007040003000109004005000700800602000200080300010000007006700050",
+      "solution": "",
+      "source": "book",
+      "difficulty": 2,
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 62,
+        "techniqueCounts": {
+          "Naked Single": 36,
+          "Hidden Single": 21,
+          "Locked Candidates": 4,
+          "Naked Pair": 1
+        },
+        "solved": true,
+        "stuck": false,
+        "contradiction": false
+      }
+    }
+  ]
+}

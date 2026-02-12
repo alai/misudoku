@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Misudoku Celebration Test</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="celebration-test.css" />
+</head>
+<body>
+  <main class="fx-test-page" id="fxTestPage">
+    <header class="fx-test-header">
+      <h1>Success Celebration Test</h1>
+      <p>三爆点彩带 + 棋盘波浪翻牌</p>
+    </header>
+
+    <section class="fx-preview" id="fxPreview">
+      <div class="fx-preview-actions">
+        <button class="pill" id="playBtn" type="button">播放</button>
+        <button class="pill" id="stopBtn" type="button">停止</button>
+        <button class="pill" id="replayBtn" type="button">重播</button>
+      </div>
+      <div class="fx-status-row">
+        <span id="fpsStat">FPS: --</span>
+        <span id="particleStat">Particles: --</span>
+        <span id="durationStat">Duration: --</span>
+      </div>
+      <div class="board-card fx-board-card">
+        <div class="board" id="fxBoard" role="img" aria-label="庆祝效果测试棋盘"></div>
+      </div>
+    </section>
+
+    <section class="fx-controls">
+      <div class="fx-presets">
+        <button class="pill" data-preset="soft" type="button">Soft</button>
+        <button class="pill is-active" data-preset="default" type="button">Default</button>
+        <button class="pill" data-preset="festival" type="button">Festival</button>
+      </div>
+
+      <div class="fx-grid">
+        <label class="fx-field">
+          <span>durationMs</span>
+          <input id="durationMs" type="number" min="600" max="5000" step="50" value="1600" />
+        </label>
+        <label class="fx-field">
+          <span>waveStepMs</span>
+          <input id="waveStepMs" type="number" min="12" max="120" step="1" value="42" />
+        </label>
+        <label class="fx-field">
+          <span>tileFlipMs</span>
+          <input id="tileFlipMs" type="number" min="120" max="700" step="10" value="260" />
+        </label>
+        <label class="fx-field">
+          <span>rateMin</span>
+          <input id="rateMin" type="number" min="4" max="120" step="1" value="24" />
+        </label>
+        <label class="fx-field">
+          <span>rateMax</span>
+          <input id="rateMax" type="number" min="6" max="160" step="1" value="48" />
+        </label>
+        <label class="fx-field">
+          <span>burstMin</span>
+          <input id="burstMin" type="number" min="1" max="40" step="1" value="8" />
+        </label>
+        <label class="fx-field">
+          <span>burstMax</span>
+          <input id="burstMax" type="number" min="2" max="60" step="1" value="18" />
+        </label>
+        <label class="fx-field">
+          <span>palette</span>
+          <select id="palette">
+            <option value="zen">Zen</option>
+            <option value="default" selected>Default</option>
+            <option value="festival">Festival</option>
+          </select>
+        </label>
+        <label class="fx-field">
+          <span>reducedMotion</span>
+          <select id="reducedMotion">
+            <option value="auto" selected>auto</option>
+            <option value="off">off</option>
+            <option value="on">on</option>
+          </select>
+        </label>
+      </div>
+    </section>
+  </main>
+
+  <script src="celebration-fx.js"></script>
+  <script src="celebration-test.js"></script>
+</body>
+</html>

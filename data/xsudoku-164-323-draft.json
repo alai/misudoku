@@ -1,0 +1,3351 @@
+{
+  "version": 1,
+  "exportedAt": "2026-02-10",
+  "source": "xsudoku-164-323",
+  "puzzles": [
+    {
+      "page": 164,
+      "status": "ok",
+      "givens": "000000300001030000000000001300005000005000670000600000500070000060080100007000003",
+      "givens_count": 17,
+      "review_count": 10,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p164.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 4
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 165,
+      "status": "ok",
+      "givens": "010000060003000100008070000000010020000005000050030000060000300107000600020008070",
+      "givens_count": 19,
+      "review_count": 5,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p165.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 166,
+      "status": "ok",
+      "givens": "000000006000010007000002000000005070010000050053600000000000000500730000200000000",
+      "givens_count": 15,
+      "review_count": 10,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p166.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 167,
+      "status": "ok",
+      "givens": "200000500005000030010007000000500200000020000006000008800300060070000000003000001",
+      "givens_count": 17,
+      "review_count": 8,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p167.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 3
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 168,
+      "status": "ok",
+      "givens": "001000050000200006803000000000007000007050800000100030000030705600008000020000000",
+      "givens_count": 18,
+      "review_count": 4,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p168.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 8,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 4,
+          "Hidden Pair": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 169,
+      "status": "ok",
+      "givens": "000070000000000500000006100102000030600000000030000007000000000007000620000035000",
+      "givens_count": 15,
+      "review_count": 7,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p169.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 170,
+      "status": "ok",
+      "givens": "000000500600584003000000000080020010000030000020070060000000000000102000005000600",
+      "givens_count": 17,
+      "review_count": 8,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p170.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Locked Candidates": 4
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 171,
+      "status": "ok",
+      "givens": "000700000000300000000800010000000167000000000023000000100003000300000200000004500",
+      "givens_count": 15,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p171.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 3
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 172,
+      "status": "ok",
+      "givens": "000030000100000080500000600000100500002000300008006000006000000030007006080020000",
+      "givens_count": 17,
+      "review_count": 5,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p172.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 12,
+        "techniqueCounts": {
+          "Hidden Single": 4,
+          "Locked Candidates": 5,
+          "Hidden Pair": 3
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 173,
+      "status": "ok",
+      "givens": "000003600000400000123000070000000050007302800000000000000000501060004000002810000",
+      "givens_count": 19,
+      "review_count": 6,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p173.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 174,
+      "status": "ok",
+      "givens": "000710000030000070200050000001000700000607003003000000100060002060000050000305000",
+      "givens_count": 19,
+      "review_count": 7,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p174.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 10,
+        "techniqueCounts": {
+          "Hidden Single": 8,
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 175,
+      "status": "ok",
+      "givens": "000700000100006000000050003008000005300000006700000000000000080000300002007000100",
+      "givens_count": 15,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p175.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 176,
+      "status": "ok",
+      "givens": "000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "givens_count": 0,
+      "review_count": 0,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p176.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 177,
+      "status": "ok",
+      "givens": "000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "givens_count": 0,
+      "review_count": 20,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p177.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 178,
+      "status": "ok",
+      "givens": "000003006050700000000000100700050000000006000100070005003000200500007000000600001",
+      "givens_count": 17,
+      "review_count": 11,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p178.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 179,
+      "status": "ok",
+      "givens": "100000000000000070000520000000706300007000500005103700000835000030000010000000006",
+      "givens_count": 19,
+      "review_count": 6,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p179.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 12,
+        "techniqueCounts": {
+          "Hidden Single": 6,
+          "Locked Candidates": 6
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 180,
+      "status": "ok",
+      "givens": "100000000030007000000020600000100307050000020800006000000030200000500000000000001",
+      "givens_count": 16,
+      "review_count": 8,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p180.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 181,
+      "status": "ok",
+      "givens": "032100000040000000050300010060700000070052000080001050007003020000000030000000860",
+      "givens_count": 21,
+      "review_count": 12,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p181.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Locked Candidates": 4
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 182,
+      "status": "ok",
+      "givens": "000041000000700800003000050000600002700050003100000060080000700000005000000230000",
+      "givens_count": 18,
+      "review_count": 3,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p182.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 3,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 183,
+      "status": "ok",
+      "givens": "000000000001230500040007010070000360000000070023000050050006000007005000000000000",
+      "givens_count": 18,
+      "review_count": 17,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p183.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 184,
+      "status": "ok",
+      "givens": "000010000000500000006700300081000000500000002000003760007002500040008010300060000",
+      "givens_count": 20,
+      "review_count": 6,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p184.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 4.4,
+        "hardestTechnique": "XY-Wing",
+        "steps": 24,
+        "techniqueCounts": {
+          "Locked Candidates": 6,
+          "Hidden Pair": 3,
+          "Hidden Single": 8,
+          "Naked Single": 6,
+          "XY-Wing": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 185,
+      "status": "ok",
+      "givens": "000305000005000000000070030800000005060000080300000007000020000002030000000001000",
+      "givens_count": 15,
+      "review_count": 10,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p185.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 186,
+      "status": "ok",
+      "givens": "010000000007000000000500070000000300100000006068000000020001700300000000000060050",
+      "givens_count": 15,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p186.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 187,
+      "status": "ok",
+      "givens": "000003006000006070500000800000708060000000000300501000003000002000800000200100500",
+      "givens_count": 18,
+      "review_count": 5,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p187.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 11,
+        "techniqueCounts": {
+          "Hidden Single": 5,
+          "Locked Candidates": 4,
+          "Naked Single": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 188,
+      "status": "ok",
+      "givens": "000000000005230670030000000020013000050702030060485010070000080083627050000000000",
+      "givens_count": 26,
+      "review_count": 7,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p188.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 3,
+        "techniqueCounts": {
+          "Naked Single": 2,
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 189,
+      "status": "ok",
+      "givens": "103000600000007000000050000000800006007000200500706001000070000000201000002000803",
+      "givens_count": 19,
+      "review_count": 7,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p189.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 190,
+      "status": "ok",
+      "givens": "100000507000030020800006000003000000000050010000000700000000003020010060607000008",
+      "givens_count": 18,
+      "review_count": 4,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p190.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 7,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 4,
+          "Hidden Pair": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 191,
+      "status": "ok",
+      "givens": "015300000000700100800001000000000062060000030350000000007200000001000000000006000",
+      "givens_count": 17,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p191.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 192,
+      "status": "ok",
+      "givens": "300000000070000000000050000000000030107000502000000060000080000010000070200010003",
+      "givens_count": 15,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p192.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 193,
+      "status": "ok",
+      "givens": "001000000030000000000080200020100000005000000000700030000070001070006040100000500",
+      "givens_count": 16,
+      "review_count": 8,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p193.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 194,
+      "status": "ok",
+      "givens": "013800000000050000600032000000000020070000010065000003000100006000000000000005370",
+      "givens_count": 18,
+      "review_count": 8,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p194.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 4
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 195,
+      "status": "ok",
+      "givens": "000700000500060000001005000000200100070030000002000000000000500003000006000001040",
+      "givens_count": 15,
+      "review_count": 8,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p195.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 196,
+      "status": "ok",
+      "givens": "000000000003600007000007000500003000000050000000000003000200000800006100040000050",
+      "givens_count": 14,
+      "review_count": 7,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p196.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 197,
+      "status": "ok",
+      "givens": "006100000001700000000000003000000007070302010350070000010000000000068700000000000",
+      "givens_count": 17,
+      "review_count": 7,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p197.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 6,
+        "techniqueCounts": {
+          "Hidden Single": 5,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 198,
+      "status": "ok",
+      "givens": "000700000000000000013000080037000005060070000000000230020003500000200000000001000",
+      "givens_count": 16,
+      "review_count": 8,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p198.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 3,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 199,
+      "status": "ok",
+      "givens": "003000000400100070060020800000000050100307000080000000006050030070001002000000600",
+      "givens_count": 19,
+      "review_count": 5,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p199.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 200,
+      "status": "ok",
+      "givens": "003000050000500000000030000070000000006203100100000080000080007700002000080700500",
+      "givens_count": 18,
+      "review_count": 7,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p200.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Hidden Pair": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 201,
+      "status": "ok",
+      "givens": "050000000000100000000003700080006000100000005003500060007000800000002003000060050",
+      "givens_count": 17,
+      "review_count": 8,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p201.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 3
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 202,
+      "status": "ok",
+      "givens": "000000060000700510000000800080006000006000000000100030000060000013002000070000400",
+      "givens_count": 16,
+      "review_count": 7,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p202.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 203,
+      "status": "ok",
+      "givens": "500000000060001030000000700800100000030000070000002005007000000000300060000050002",
+      "givens_count": 16,
+      "review_count": 7,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p203.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 204,
+      "status": "ok",
+      "givens": "000300200020000000060000030000000000005070800000030000030000000000000010002500400",
+      "givens_count": 14,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p204.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 205,
+      "status": "ok",
+      "givens": "000100006070050000006000500000308007030000010000701003000000000010030020700402005",
+      "givens_count": 21,
+      "review_count": 8,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p205.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 206,
+      "status": "ok",
+      "givens": "100000000000060050000500000076000300000000000005000710000008000010000060500000007",
+      "givens_count": 15,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p206.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 207,
+      "status": "ok",
+      "givens": "000034000000000007050000600030000800000000000008000050005000080000000000000670003",
+      "givens_count": 14,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p207.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 208,
+      "status": "ok",
+      "givens": "050000030000001000007000100080010020600500007000030050005000000000000000000050000",
+      "givens_count": 15,
+      "review_count": 10,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p208.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 209,
+      "status": "ok",
+      "givens": "700000000000000000006030050000100007000000600100007300080060000001000000300500006",
+      "givens_count": 16,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p209.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 210,
+      "status": "ok",
+      "givens": "000700000014000620070000000500030000000008000000010000000000030056000800000000000",
+      "givens_count": 14,
+      "review_count": 12,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p210.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 211,
+      "status": "ok",
+      "givens": "000700006030600010000200000000000201060000080005000000000006000000081060500007004",
+      "givens_count": 18,
+      "review_count": 6,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p211.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 8,
+        "techniqueCounts": {
+          "Hidden Single": 4,
+          "Locked Candidates": 3,
+          "Hidden Pair": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 212,
+      "status": "ok",
+      "givens": "500000006000036000003000100070502000030000010080300000000000500000208000700000001",
+      "givens_count": 18,
+      "review_count": 7,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p212.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 213,
+      "status": "ok",
+      "givens": "100000006020000070003000500000007010500030008060200000007000200080000030000060004",
+      "givens_count": 19,
+      "review_count": 6,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p213.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 214,
+      "status": "ok",
+      "givens": "300000000002000008050062000008100000200050003000000700000600050700003600000000000",
+      "givens_count": 17,
+      "review_count": 11,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p214.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 215,
+      "status": "ok",
+      "givens": "030106000000000000070000000806000000050000030000000208000007020000080000000305080",
+      "givens_count": 16,
+      "review_count": 8,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p215.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 216,
+      "status": "ok",
+      "givens": "000301000508060000070000000007000001050000000200000306000000020000050107000400060",
+      "givens_count": 18,
+      "review_count": 7,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p216.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 217,
+      "status": "ok",
+      "givens": "000010000500600000002000000800507000000020000000803005005000000700302009000000000",
+      "givens_count": 16,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p217.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 218,
+      "status": "ok",
+      "givens": "000000007010000000080000060000700000008000500000003000000060050064000370500000001",
+      "givens_count": 16,
+      "review_count": 8,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p218.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 219,
+      "status": "ok",
+      "givens": "700000000060000000000000560003000000000301000000000100010007000005000000000100007",
+      "givens_count": 13,
+      "review_count": 11,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p219.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 220,
+      "status": "ok",
+      "givens": "700000000630050000000007800000000100070503060000010000005200000000030001000000050",
+      "givens_count": 17,
+      "review_count": 7,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p220.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 221,
+      "status": "ok",
+      "givens": "063000000000003000000000570300000000000070000070000005056000000000300000400006100",
+      "givens_count": 15,
+      "review_count": 10,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p221.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 3,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 222,
+      "status": "ok",
+      "givens": "700000000042000000060000000001603007000000000000700300000000010000000520300500000",
+      "givens_count": 15,
+      "review_count": 10,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p222.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 2,
+        "techniqueCounts": {
+          "Locked Candidates": 1,
+          "Hidden Pair": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 223,
+      "status": "ok",
+      "givens": "060007040000000007000500000608000305000000000701000000000805000000000001020304060",
+      "givens_count": 18,
+      "review_count": 7,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p223.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 224,
+      "status": "ok",
+      "givens": "000060000020000030000000500300000005000000000600010000006000000050000070000076000",
+      "givens_count": 13,
+      "review_count": 13,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p224.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 225,
+      "status": "ok",
+      "givens": "300006008000000700000000350000007006000000000100300000005030000000050000600000005",
+      "givens_count": 15,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p225.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 226,
+      "status": "ok",
+      "givens": "003000000000000060000000000070000300000108007000050010000000000050600000000030100",
+      "givens_count": 13,
+      "review_count": 13,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p226.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 2,
+        "techniqueCounts": {
+          "Locked Candidates": 1,
+          "Hidden Pair": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 227,
+      "status": "ok",
+      "givens": "000003007000070060006000000000000701000000030001000000000800105000000070500400600",
+      "givens_count": 16,
+      "review_count": 8,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p227.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 228,
+      "status": "ok",
+      "givens": "000000000005000300000000000250000000600000008000000060800001200003000700000004000",
+      "givens_count": 13,
+      "review_count": 7,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p228.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 229,
+      "status": "ok",
+      "givens": "000000500000600030053000006600070000000000000000020004800000040070000000002057000",
+      "givens_count": 16,
+      "review_count": 6,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p229.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 230,
+      "status": "ok",
+      "givens": "000000020003000700000300008010000000002000600030070010100008003006000000050000070",
+      "givens_count": 17,
+      "review_count": 8,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p230.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 231,
+      "status": "ok",
+      "givens": "100000000000000300076000100000300500000000001000500002000003260001000000600870000",
+      "givens_count": 17,
+      "review_count": 12,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p231.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 232,
+      "status": "ok",
+      "givens": "000678000000000000300000600200000000100050006000300007007000001000000000000163700",
+      "givens_count": 17,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p232.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 3
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 233,
+      "status": "ok",
+      "givens": "000000570000000003000080001000003000000000600301700000700860000000000000026400000",
+      "givens_count": 16,
+      "review_count": 6,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p233.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 234,
+      "status": "ok",
+      "givens": "030000000000000208000060000200000005005000100000700000000070000700008004040000630",
+      "givens_count": 16,
+      "review_count": 10,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p234.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 235,
+      "status": "ok",
+      "givens": "000000000000060780000307050006001000030000010008200500020805000051730060000000000",
+      "givens_count": 21,
+      "review_count": 5,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p235.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 4
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 236,
+      "status": "ok",
+      "givens": "000000000005000000000030002300200000001000500000806000200070005000000000000100060",
+      "givens_count": 14,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p236.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 237,
+      "status": "ok",
+      "givens": "070008000003000700000000010008000003000801000100000500000002080005000002000300000",
+      "givens_count": 16,
+      "review_count": 8,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p237.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 3,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 238,
+      "status": "ok",
+      "givens": "054000001600000020200700300000001000000020000000300670001002004020000005300000800",
+      "givens_count": 20,
+      "review_count": 6,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p238.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 17,
+        "techniqueCounts": {
+          "Hidden Single": 8,
+          "Naked Single": 5,
+          "Locked Candidates": 4
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 239,
+      "status": "ok",
+      "givens": "007600003300000000800000500600002000002000800040700001003010007000800000000006200",
+      "givens_count": 19,
+      "review_count": 7,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p239.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 240,
+      "status": "ok",
+      "givens": "100008700000060030000500020005200060000000000000007000070000100060030000002600004",
+      "givens_count": 18,
+      "review_count": 5,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p240.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 9,
+        "techniqueCounts": {
+          "Hidden Single": 6,
+          "Locked Candidates": 3
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 241,
+      "status": "ok",
+      "givens": "000000000000003000000068002000000700000000000053002000000700000000400000030000000",
+      "givens_count": 11,
+      "review_count": 24,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p241.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 242,
+      "status": "ok",
+      "givens": "010000000000000000027003000070001080000000000052800070000530760000000530000000020",
+      "givens_count": 18,
+      "review_count": 10,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p242.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 243,
+      "status": "ok",
+      "givens": "000021000000300000000000003000000001600070000700000020003000500000003000000610000",
+      "givens_count": 14,
+      "review_count": 15,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p243.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 244,
+      "status": "ok",
+      "givens": "003056000000000700010000000006100000000000000000307000000000030007000000000813000",
+      "givens_count": 14,
+      "review_count": 10,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p244.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 245,
+      "status": "ok",
+      "givens": "000000000000000000000107300030050000000000006000080010006700000700000005000030000",
+      "givens_count": 13,
+      "review_count": 11,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p245.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 246,
+      "status": "ok",
+      "givens": "000305000000000006000000000700000201000000000102000300000008000500000007070103000",
+      "givens_count": 15,
+      "review_count": 10,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p246.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 247,
+      "status": "ok",
+      "givens": "000300020060007005000001000000000070000603000006000000700000060000000000010005400",
+      "givens_count": 15,
+      "review_count": 14,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p247.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 248,
+      "status": "ok",
+      "givens": "000500000000700160070100800000000012000000000507000000003005070060001020000006000",
+      "givens_count": 18,
+      "review_count": 6,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p248.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 249,
+      "status": "ok",
+      "givens": "000060010000000003000007000007600500500000001000001200000205000300000006010080070",
+      "givens_count": 18,
+      "review_count": 7,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p249.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Hidden Pair": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 250,
+      "status": "ok",
+      "givens": "007603000000070002001000007060500008000000000000008000000000200500000000080306500",
+      "givens_count": 17,
+      "review_count": 13,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p250.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 251,
+      "status": "ok",
+      "givens": "000000600000500000703010000000000070006000100000002000000060300050004000802000000",
+      "givens_count": 15,
+      "review_count": 5,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p251.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 3,
+        "techniqueCounts": {
+          "Locked Candidates": 2,
+          "Hidden Pair": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 252,
+      "status": "ok",
+      "givens": "000000007030000000000000500007000200000506000001000600005000000000800030600020000",
+      "givens_count": 14,
+      "review_count": 8,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p252.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 253,
+      "status": "ok",
+      "givens": "000507000002000300080000010900060000000308000000000000030000000056000700000000000",
+      "givens_count": 14,
+      "review_count": 20,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p253.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 254,
+      "status": "ok",
+      "givens": "000603010070000003000000000600000000010000020000000000000000000700050032030701050",
+      "givens_count": 16,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p254.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 255,
+      "status": "ok",
+      "givens": "000000000005030000000600002002000000000000030700000400300008050000000600000700000",
+      "givens_count": 13,
+      "review_count": 11,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p255.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 256,
+      "status": "ok",
+      "givens": "000008030001000570002500000003600000000000000000000700000005800075206000040300000",
+      "givens_count": 18,
+      "review_count": 7,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p256.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 257,
+      "status": "ok",
+      "givens": "000000000000070020003106800007000600610000080000000100002003500000050070000060000",
+      "givens_count": 18,
+      "review_count": 7,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p257.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 258,
+      "status": "ok",
+      "givens": "000000586010000000030000000007001002000000000500800000000000010000530070060000000",
+      "givens_count": 15,
+      "review_count": 6,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p258.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 6,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 4
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 259,
+      "status": "ok",
+      "givens": "000000000600580000000000570010000000000000002003000010007006000000020000000000031",
+      "givens_count": 14,
+      "review_count": 8,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p259.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 260,
+      "status": "ok",
+      "givens": "007300000000000200010002000001000005000103007000000300500000030000000000000001080",
+      "givens_count": 15,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p260.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 261,
+      "status": "ok",
+      "givens": "000300000000000000300001000000070000100000200000000030000025300000000070000800000",
+      "givens_count": 12,
+      "review_count": 12,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p261.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 262,
+      "status": "ok",
+      "givens": "100000000003000050020000006000000003000050000200000000000000010080006200005300000",
+      "givens_count": 14,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p262.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 263,
+      "status": "ok",
+      "givens": "000000000600000002000000700000060080001805000070020000000400000300000006000001000",
+      "givens_count": 14,
+      "review_count": 16,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p263.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 264,
+      "status": "ok",
+      "givens": "000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "givens_count": 0,
+      "review_count": 81,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p264.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 265,
+      "status": "ok",
+      "givens": "000000005030000080000030000005100800007000600001203000000056000070000000300000006",
+      "givens_count": 17,
+      "review_count": 17,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p265.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 3,
+        "techniqueCounts": {
+          "Locked Candidates": 3
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 266,
+      "status": "ok",
+      "givens": "000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "givens_count": 0,
+      "review_count": 81,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p266.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 267,
+      "status": "ok",
+      "givens": "003000056000000000000000000005060000020301000000000000000700000000005000010000300",
+      "givens_count": 12,
+      "review_count": 20,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p267.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 268,
+      "status": "ok",
+      "givens": "000781000006000000000000370300107000000000000800003002013000500000000100000012000",
+      "givens_count": 18,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p268.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 3
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 269,
+      "status": "ok",
+      "givens": "008070002020500009000000600300000000000000040000000005000100000000000030600000100",
+      "givens_count": 14,
+      "review_count": 12,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p269.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 270,
+      "status": "ok",
+      "givens": "000300001060070000000000000000000000003000700100000000006000000000010030000007000",
+      "givens_count": 11,
+      "review_count": 13,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p270.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 271,
+      "status": "ok",
+      "givens": "200000005010207000003000000040060050500700000000080030007000200020001000300000006",
+      "givens_count": 19,
+      "review_count": 13,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p271.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 272,
+      "status": "ok",
+      "givens": "000507000006000000000000030100020007300000001000000008030000000002000500000108000",
+      "givens_count": 15,
+      "review_count": 12,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p272.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 3
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 273,
+      "status": "ok",
+      "givens": "000056000003000002000000007700100000000000000010008000000007001300000600000200000",
+      "givens_count": 14,
+      "review_count": 14,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p273.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 274,
+      "status": "ok",
+      "givens": "005000000060000030100000000000007000007020500000605000000080003000000050003000200",
+      "givens_count": 15,
+      "review_count": 6,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p274.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 275,
+      "status": "ok",
+      "givens": "000000000100000007006500000600000023000236000000000006000000600375000000000000000",
+      "givens_count": 15,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p275.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 276,
+      "status": "ok",
+      "givens": "100000300000052000006008000000000006002000800700000002000700000000060080050000001",
+      "givens_count": 16,
+      "review_count": 8,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p276.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 277,
+      "status": "ok",
+      "givens": "006000005000007000200000300000000200000000000070000003001200007000500000000000610",
+      "givens_count": 14,
+      "review_count": 14,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p277.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 278,
+      "status": "ok",
+      "givens": "005200007020000300000000600003000008000000000070006500000000050002000000300007200",
+      "givens_count": 16,
+      "review_count": 12,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p278.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 279,
+      "status": "ok",
+      "givens": "400030000050000000006000300030700000700000005000603080007000400080200050000080006",
+      "givens_count": 19,
+      "review_count": 8,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p279.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 6,
+        "techniqueCounts": {
+          "Hidden Single": 5,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 280,
+      "status": "ok",
+      "givens": "600000030000070020003000600000800000005000000000207000000000700020010060060000013",
+      "givens_count": 17,
+      "review_count": 10,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p280.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Pair": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 281,
+      "status": "ok",
+      "givens": "000437000003000000080000000000060001100004002500020006000000060007000000000071000",
+      "givens_count": 17,
+      "review_count": 11,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p281.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 282,
+      "status": "ok",
+      "givens": "000002000000000000000870000060000000000000002700000080200000600030000000000210000",
+      "givens_count": 12,
+      "review_count": 12,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p282.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 283,
+      "status": "ok",
+      "givens": "000700300006000020050000008030001000000000050000300060700002000060000100005000000",
+      "givens_count": 16,
+      "review_count": 14,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p283.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 284,
+      "status": "ok",
+      "givens": "000010000006000000007000006000500003000000070000000000800000720003000500000160000",
+      "givens_count": 14,
+      "review_count": 10,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p284.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 285,
+      "status": "ok",
+      "givens": "000000000000020700060105030007010200030000050000000300000203080006000100000000000",
+      "givens_count": 17,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p285.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 3,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 286,
+      "status": "ok",
+      "givens": "000305000000002300000000000020000031000000000460000007000000060003001000000700000",
+      "givens_count": 14,
+      "review_count": 10,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p286.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 287,
+      "status": "ok",
+      "givens": "500001004020000000000000300007000000800000005000007200001004000000300000300200700",
+      "givens_count": 16,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p287.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 288,
+      "status": "ok",
+      "givens": "200000007000203000000070600020100030006000200000507010000000500000701000000000000",
+      "givens_count": 17,
+      "review_count": 7,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p288.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 289,
+      "status": "ok",
+      "givens": "003056000000000700010000000030000000007000200000000000004000000000000070000168000",
+      "givens_count": 13,
+      "review_count": 17,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p289.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 3,
+        "techniqueCounts": {
+          "Locked Candidates": 3
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 290,
+      "status": "ok",
+      "givens": "000000000000300107010050200600800000500000000000001002005010000803007000020000000",
+      "givens_count": 17,
+      "review_count": 10,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p290.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 4,
+        "techniqueCounts": {
+          "Hidden Single": 2,
+          "Locked Candidates": 1,
+          "Hidden Pair": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 291,
+      "status": "ok",
+      "givens": "003200000006000000000003000080005300000000000000800076007000031000000000000001700",
+      "givens_count": 15,
+      "review_count": 18,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p291.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 292,
+      "status": "ok",
+      "givens": "030000002050007000700006500000100030000000000012008000007000001000300050500000700",
+      "givens_count": 18,
+      "review_count": 10,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p292.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 7,
+        "techniqueCounts": {
+          "Hidden Single": 6,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 293,
+      "status": "ok",
+      "givens": "050000000000000000000700500000270000000000000002030000023000000000000000000000003",
+      "givens_count": 10,
+      "review_count": 20,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p293.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 294,
+      "status": "ok",
+      "givens": "087500000000200000100000000020000000003000500000800010500000002000001000000003760",
+      "givens_count": 16,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p294.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 5,
+        "techniqueCounts": {
+          "Locked Candidates": 4,
+          "Hidden Pair": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 295,
+      "status": "ok",
+      "givens": "003020000000100000500030000040005000801000002000700050006000007000000000000000300",
+      "givens_count": 15,
+      "review_count": 17,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p295.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 296,
+      "status": "ok",
+      "givens": "007000300060000000100030005010700060005000700020000000200060001000000050001000000",
+      "givens_count": 17,
+      "review_count": 10,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p296.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 1,
+        "techniqueCounts": {
+          "Hidden Single": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 297,
+      "status": "ok",
+      "givens": "003200000600001000070000000001000030200000000080006500050030010700000000000002700",
+      "givens_count": 17,
+      "review_count": 10,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p297.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 298,
+      "status": "ok",
+      "givens": "000000210100003000000000000000000070006000000070000000800060000000300081012000060",
+      "givens_count": 15,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p298.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 299,
+      "status": "ok",
+      "givens": "000000000080000120000321000007050300000000000002030000000000000046000080000000000",
+      "givens_count": 14,
+      "review_count": 16,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p299.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 300,
+      "status": "ok",
+      "givens": "200000000000002000003000000060000050001000700030000060000060000000120000700000000",
+      "givens_count": 13,
+      "review_count": 12,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p300.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 301,
+      "status": "ok",
+      "givens": "500000002020080005070005000008003000007000000000100300000500000000070000300060000",
+      "givens_count": 16,
+      "review_count": 11,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p301.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 302,
+      "status": "ok",
+      "givens": "000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "givens_count": 0,
+      "review_count": 81,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p302.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 303,
+      "status": "ok",
+      "givens": "000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "givens_count": 0,
+      "review_count": 81,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p303.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 304,
+      "status": "ok",
+      "givens": "000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "givens_count": 0,
+      "review_count": 81,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p304.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 305,
+      "status": "ok",
+      "givens": "000000000300020000000430000000200400002000000007006280000000070000060001000000000",
+      "givens_count": 14,
+      "review_count": 14,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p305.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 306,
+      "status": "ok",
+      "givens": "000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "givens_count": 0,
+      "review_count": 81,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p306.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 307,
+      "status": "ok",
+      "givens": "000208000000000006020000000008060000000802000002070300060000000000000004000015000",
+      "givens_count": 15,
+      "review_count": 17,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p307.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.8,
+        "hardestTechnique": "Hidden Pair",
+        "steps": 2,
+        "techniqueCounts": {
+          "Locked Candidates": 1,
+          "Hidden Pair": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 308,
+      "status": "ok",
+      "givens": "000000400000000000000000000000000000000000000000000000000000000000000000000000000",
+      "givens_count": 1,
+      "review_count": 71,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p308.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 309,
+      "status": "ok",
+      "givens": "000100030000050200000007010800000000050000000000000007020700000301000000070504000",
+      "givens_count": 16,
+      "review_count": 16,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p309.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 310,
+      "status": "ok",
+      "givens": "002000030080000700000061000100000000300000005060800002000300000007000010000002600",
+      "givens_count": 17,
+      "review_count": 7,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p310.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 5,
+        "techniqueCounts": {
+          "Locked Candidates": 5
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 311,
+      "status": "ok",
+      "givens": "000020050300000000600800007000000200100700009000203000200000005000600000005000000",
+      "givens_count": 16,
+      "review_count": 14,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p311.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 312,
+      "status": "ok",
+      "givens": "000000000000006005000002000003000002200700006600100530500600000700200000000000000",
+      "givens_count": 16,
+      "review_count": 9,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p312.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 313,
+      "status": "ok",
+      "givens": "000000000000100002001000000010500000000040000020601030002000300600203007050000000",
+      "givens_count": 17,
+      "review_count": 10,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p313.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 314,
+      "status": "ok",
+      "givens": "000016700000000000000000000026000000000000000000000070005000000000000300008500000",
+      "givens_count": 10,
+      "review_count": 12,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p314.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 315,
+      "status": "ok",
+      "givens": "000000000100000070003000000070005000900000007000300050001000000030000000200070000",
+      "givens_count": 13,
+      "review_count": 14,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p315.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 2,
+        "techniqueCounts": {
+          "Hidden Single": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 316,
+      "status": "ok",
+      "givens": "000000000000000000000307010000200000002000000000003020000600030000100070000000000",
+      "givens_count": 11,
+      "review_count": 13,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p316.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 317,
+      "status": "ok",
+      "givens": "000000000020010040000005000007030600050107080000000200000001000010060030000000000",
+      "givens_count": 16,
+      "review_count": 17,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p317.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 1,
+        "techniqueCounts": {
+          "Locked Candidates": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 318,
+      "status": "ok",
+      "givens": "000010000000700200000000030030000400000000001002000000000300000001005003000070000",
+      "givens_count": 13,
+      "review_count": 11,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p318.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 319,
+      "status": "ok",
+      "givens": "005000600100603000000040000070100020003000500000500000800000002000206000000000400",
+      "givens_count": 17,
+      "review_count": 13,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p319.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 3,
+        "techniqueCounts": {
+          "Hidden Single": 1,
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 320,
+      "status": "ok",
+      "givens": "000082000000000500050000070700200030000000007010306000030000020008003100000700000",
+      "givens_count": 18,
+      "review_count": 8,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p320.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 1.2,
+        "hardestTechnique": "Hidden Single",
+        "steps": 6,
+        "techniqueCounts": {
+          "Hidden Single": 6
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 321,
+      "status": "ok",
+      "givens": "000000007006500002010000000030600000002000100000000030000060080400002500720000000",
+      "givens_count": 17,
+      "review_count": 10,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p321.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.0,
+        "hardestTechnique": "Locked Candidates",
+        "steps": 6,
+        "techniqueCounts": {
+          "Hidden Single": 4,
+          "Locked Candidates": 2
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 322,
+      "status": "ok",
+      "givens": "000003001000800020006000300100070000000001000080000006001000700020000000300000000",
+      "givens_count": 15,
+      "review_count": 11,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p322.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 0.0,
+        "hardestTechnique": "None",
+        "steps": 0,
+        "techniqueCounts": {},
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    },
+    {
+      "page": 323,
+      "status": "ok",
+      "givens": "000000000300000000007000003000100004005000700800602000200080300010000007006700050",
+      "givens_count": 18,
+      "review_count": 11,
+      "board_path": "/Users/alai/Projects/Codex/Misudoku/review/xsudoku-164-323/boards/p323.png",
+      "seStrict": {
+        "version": "SE-Strict-v1",
+        "score": 2.6,
+        "hardestTechnique": "Naked Pair",
+        "steps": 7,
+        "techniqueCounts": {
+          "Hidden Single": 4,
+          "Locked Candidates": 2,
+          "Naked Pair": 1
+        },
+        "solved": false,
+        "stuck": true,
+        "contradiction": false
+      },
+      "difficulty": 4
+    }
+  ]
+}
