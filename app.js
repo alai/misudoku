@@ -1268,7 +1268,41 @@ async function init() {
 
 function registerServiceWorker() {
   if (!("serviceWorker" in navigator)) return;
-  navigator.serviceWorker.register("sw.js");
+  let isRefreshing = false;
+  navigator.serviceWorker.addEventListener("controllerchange", () => {
+    if (isRefreshing) return;
+    isRefreshing = true;
+    window.location.reload();
+  });
+
+  navigator.serviceWorker
+    .register("sw.js")
+    .then((registration) => {
+      const promptForUpdate = () => {
+        if (!registration.waiting) return;
+        const accepted = window.confirm("检测到新版本，是否立即刷新？");
+        if (accepted) {
+          registration.waiting.postMessage({ type: "SKIP_WAITING" });
+        }
+      };
+
+      if (registration.waiting) {
+        promptForUpdate();
+      }
+
+      registration.addEventListener("updatefound", () => {
+        const nextWorker = registration.installing;
+        if (!nextWorker) return;
+        nextWorker.addEventListener("statechange", () => {
+          if (nextWorker.state === "installed" && navigator.serviceWorker.controller) {
+            promptForUpdate();
+          }
+        });
+      });
+    })
+    .catch(() => {
+      // Service worker registration can fail in unsupported/private contexts.
+    });
 }
 
 function createEmptyGrid() {
