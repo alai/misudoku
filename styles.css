@@ -45,6 +45,11 @@
   box-sizing: border-box;
 }
 
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
 body {
   margin: 0;
   min-height: 100vh;
@@ -265,10 +270,9 @@ body {
 }
 
 .cell.is-selected {
-  transform: scale(1.02);
   outline: 2px solid var(--accent-strong);
   outline-offset: -3px;
-  outline-style: auto;
+  outline-style: solid;
 }
 
 .cell.is-related {
@@ -296,6 +300,7 @@ body {
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
   font-size: 0.5rem;
+  line-height: 1;
   gap: 2px;
   color: var(--muted);
   opacity: 0.9;
@@ -305,6 +310,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  line-height: 1;
   opacity: 0;
 }
 
@@ -722,5 +728,20 @@ button {
 
   .keypad {
     grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+@supports (-webkit-touch-callout: none) {
+  @media (max-width: 390px) {
+    .cell-notes {
+      inset: 2px;
+      gap: 1px;
+      font-size: 0.42rem;
+    }
+
+    .cell.is-selected {
+      outline-width: 1.8px;
+      outline-offset: -2px;
+    }
   }
 }
